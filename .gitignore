@@ -1,0 +1,8 @@
+# Nimbalyst local data (not checked into version control)
+nimbalyst-local/
+
+# macOS
+.DS_Store
+
+# Google Docs stubs
+*.gdoc

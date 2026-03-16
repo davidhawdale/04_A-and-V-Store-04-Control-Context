@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Edit",
+      "WebSearch",
+      "WebFetch(domain:docs.n8n.io)",
+      "Bash(ls:*)",
+      "Bash(cd:*)",
+      "Bash(find:*)",
+      "Bash(mv:*)",
+      "Bash(echo:*)",
+      "Bash(do:*)",
+      "Bash(done:*)",
+      "Write"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
