@@ -1,6 +1,9 @@
 # Nimbalyst local data (not checked into version control)
 nimbalyst-local/
 
+# Environment files
+.env
+
 # macOS
 .DS_Store
 
